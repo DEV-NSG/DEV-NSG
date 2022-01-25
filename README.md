@@ -1,4 +1,4 @@
-<h2> (Hello)🙏🏻, I'm NsG! <img src="https://c.tenor.com/l3f7aCTNRvUAAAAC/days_gone-deacon_st_john.gif" width="50"></h2>
+<h2> (Hello), I'm NsG! <img src="https://c.tenor.com/l3f7aCTNRvUAAAAC/days_gone-deacon_st_john.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/lffV6W67fWdPxO1OlR/giphy.gif" width="230">
 
 
