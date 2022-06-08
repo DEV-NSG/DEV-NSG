@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nsg_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/nsg_dev_?logo=twitter&style=for-the-badge" alt="nsg_dev_" /></a> </p>
 
-- 🔭 I’m currently working on [Project center](nsgdev.xyz)
+- 🔭 I’m currently working on [Project center](https://nsgdev.xyz)
 
 - 🌱 I’m currently learning **C++, PHP, HTML, CSS, JS, PYTHON, LARAVEL, 3d modelling and animation**
 
