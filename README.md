@@ -33,4 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nsg&show_icons=true&locale=en" alt="dev-nsg" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-nsg&theme=dark" alt="dev-nsg" /></p>
 <p>Right now i'm listening to:</p>
+
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=g3eb2ntnrvoegnnd4uzn1gw6p&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=g3eb2ntnrvoegnnd4uzn1gw6p&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
