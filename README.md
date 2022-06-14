@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-nsg&show_icons=true&locale=en" alt="dev-nsg" /></p>
 
-Right now i'm listening to:
+<p>Right now i'm listening to:</p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g3eb2ntnrvoegnnd4uzn1gw6p&cover_image=true&theme=default&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
